@@ -1,5 +1,3 @@
-# Node
-
 Node Js
 	1) node.js.org
 	2) download node js
