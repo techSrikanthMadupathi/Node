@@ -1,6 +1,0 @@
-Node Js
-	1) node.js.org
-	2) download node js
-	3) vs code editor
-
-Node package manager is used to have js lib from npm
